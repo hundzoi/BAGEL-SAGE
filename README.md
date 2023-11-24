@@ -1,4 +1,4 @@
-# Rogue-like-neon
+# BAGEL-SAGE
 Наш проект – Rogue-like-neon
 
 Цель: создание двухмерного платформера на стыке жанров rogue-like и метроидвании 
